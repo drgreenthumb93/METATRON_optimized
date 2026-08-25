@@ -34,8 +34,8 @@ You give it a target IP or domain. It runs real recon tools (nmap, whois, whatwe
 - ✏️ **Edit / Delete** — modify any saved result directly from the CLI
 - 🔁 **Agentic Loop** — AI can request more tool runs mid-analysis
 - 🚫 **No API Keys** — everything is free and local
--📤 Export Reports
--⚠️ This script is more aggressive than the original!
+-📤 **Export Reports**
+-⚠️ **This script is more aggressive than the original!**
 
 Metatron allows you to export scan results into clean, shareable report formats by selecting '2.view history'->select slno and export
 
